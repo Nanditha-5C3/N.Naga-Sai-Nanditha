@@ -1,0 +1,15 @@
+{
+	"author": "Brendan Dayley",
+	"name": "censorify",
+	"version" :"0.1.1",
+	"description": "Censors wprds out of text",
+	"main":"censortext",
+	"keywords" :[
+		"censor",
+		"words"
+	]
+	"dependencies":{},
+	"engines":{
+		"node":"*"
+	}
+}
